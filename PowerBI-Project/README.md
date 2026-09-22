@@ -97,6 +97,4 @@ Development of data-driven insights and recommendations.
 
 ## Power BI Dashboard
 
-![Nova Retail Sales Dashboard](PowerBI-Project/Screenshots/Dashboard.png)
-
 <img width="1441" height="807" alt="image" src="https://github.com/user-attachments/assets/50de94f7-8c73-4b8b-bd49-2f32c388d3e3" />
