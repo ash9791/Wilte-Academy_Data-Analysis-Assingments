@@ -224,11 +224,14 @@ Products ──────── Sales ──────── Customers
                       │
                       │
               CustomerFeedback
+```
+
 ---
 
 ## Tools Used
 
 ### SQL
+
 - SQL
 - Relational database concepts
 - CTEs
@@ -237,12 +240,15 @@ Products ──────── Sales ──────── Customers
 - Aggregate functions
 
 ### Power BI
+
 - Power BI Desktop
 - Power Query
 - DAX
 - Data modelling
 - Data visualisation
+
 ---
+
 ## Repository Structure
 
 ```text
@@ -267,3 +273,4 @@ Nova-Retail-Analytics/
     ├── Products.csv
     ├── Sales.csv
     └── CustomerFeedback.csv
+```
