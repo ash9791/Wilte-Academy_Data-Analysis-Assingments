@@ -98,3 +98,5 @@ Development of data-driven insights and recommendations.
 ## Power BI Dashboard
 
 <img width="1441" height="807" alt="image" src="https://github.com/user-attachments/assets/50de94f7-8c73-4b8b-bd49-2f32c388d3e3" />
+
+Interactive Power BI dashboard analysing revenue, profit, orders, customers, regional performance, sales channels and customer satisfaction.
